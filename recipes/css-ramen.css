@@ -77,3 +77,8 @@ ul strong, ol strong {
     margin-bottom: 0.5rem;
     font-size: 1.1rem;
 }
+
+a:hover {
+    text-decoration:underline;
+    color:#00528d
+}
